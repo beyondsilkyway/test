@@ -1,0 +1,86 @@
+2015-06-17 14:00:42.9280|INFO|thread:26|BackgroundFetcher|Added a delay for beyondsilkyway/test of 29824 milliseconds
+2015-06-17 13:58:36.5987|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:http://github-windows.s3.amazonaws.com/GitHub.application
+2015-06-17 13:58:36.6107|INFO|thread: 1|AppInstanceCommunicator|Starting up as master instance of GitHub for Windows
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| #########################################
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| GitHub for Windows started. VERSION: 2.14.5.1
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| Build version: cc018b2dbfeea4c32899a687c4d059f6358a948e
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| ***************************************
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| ***        Have a problem?          ***
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| ***    Email support@github.com     ***
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| ***      and include this file      ***
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| ***************************************
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| OS Version: Windows 7 Service Pack 1 6.1.7601.65536 amd64
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| CLR Version: 4.0.30319.18408
+2015-06-17 13:58:37.1948|INFO|thread: 5|StartupLogging| Current culture: ko-KR
+2015-06-17 13:58:37.2628|INFO|thread: 5|StartupLogging| Terminal Services session: no
+2015-06-17 13:58:37.2628|INFO|thread: 5|StartupLogging| Location: C:\Users\Administrator\AppData\Local\Apps\2.0\G8D35CX2.0N9\GC05RHRD.9TZ\gith..tion_317444273a93ac29_0002.000e_3501b301c8f62e54\GitHub.exe
+2015-06-17 13:58:37.3988|INFO|thread: 5|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2015-06-17 13:58:37.3988|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2015-06-17 13:58:37.3988|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2015-06-17 13:58:37.6258|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-06-17 13:58:37.6258|INFO|thread: 5|GitEnvironment|PATH is C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Administrator\AppData\Local\Apps\2.0\G8D35CX2.0N9\GC05RHRD.9TZ\gith..tion_317444273a93ac29_0002.000e_3501b301c8f62e54;C:\Users\Administrator\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Program Files\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;C:\maven\apache-maven-3.2.1\bin;C:\Program Files\Java\jdk1.7.0_09\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Program Files\Boot2Docker for Windows;C:\Program Files\Bandizip\7z
+2015-06-17 13:58:37.6468|INFO|thread: 5|StartupLogging| =====================================================
+2015-06-17 13:58:37.6468|INFO|thread: 5|StartupLogging|  DIAGNOSTICS                                        |
+2015-06-17 13:58:37.6468|INFO|thread: 5|StartupLogging| =====================================================
+2015-06-17 13:58:37.6728|INFO|thread: 5|StartupLogging| Git Extracted: 'True:
+2015-06-17 13:58:37.6728|INFO|thread: 5|StartupLogging| PortableGit Dir Exists: 'C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad'
+2015-06-17 13:58:37.6728|INFO|thread: 5|StartupLogging| Git Executable Exists: 'C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe'
+2015-06-17 13:58:37.6728|INFO|thread: 5|StartupLogging| ----------------------------------------------------
+2015-06-17 13:58:37.6728|INFO|thread: 5|StartupLogging| PATH: C:\Program Files\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;C:\maven\apache-maven-3.2.1\bin;C:\Program Files\Java\jdk1.7.0_09\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Program Files\Boot2Docker for Windows;C:\Program Files\Bandizip\7z
+2015-06-17 13:58:37.8158|INFO|thread: 5|StartupLogger|Proxy information: (None)
+2015-06-17 13:58:37.8158|INFO|thread: 5|StartupLogger|Couldn't fetch creds for proxy
+2015-06-17 13:58:39.0969|INFO|thread: 1|App|Checking whether application is network deployed.
+2015-06-17 13:58:39.4199|INFO|thread: 5|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2015-06-17 13:58:40.4419|INFO|thread: 5|MsysGitCertificateInstaller|Found certificate cache, loaded 162 certificates
+2015-06-17 13:58:40.5070|INFO|thread: 5|MsysGitCertificateInstaller|Created certificate bundle with 204 entries
+2015-06-17 13:58:40.6660|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\Administrator\AppData\Local\Apps\2.0\G8D35CX2.0N9\GC05RHRD.9TZ\gith..tion_317444273a93ac29_0002.000e_3501b301c8f62e54\Images\App.ico'
+2015-06-17 13:58:50.6995|INFO|thread: 4|SoftwareUpdateViewModel|Checking for new version
+2015-06-17 13:58:52.8567|INFO|thread: 1|CommandLineToolsExtractor|Portable Git and Git LFS are already extracted
+2015-06-17 13:58:52.8567|INFO|thread: 1|GitClient|Installing git lfs filters
+2015-06-17 13:58:52.9007|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-06-17 13:58:52.9007|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Administrator\AppData\Local\Apps\2.0\G8D35CX2.0N9\GC05RHRD.9TZ\gith..tion_317444273a93ac29_0002.000e_3501b301c8f62e54;C:\Users\Administrator\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-06-17 13:58:52.9297|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'lfs init ', Working Directory: C:\Users\Administrator\AppData\Local\Temp\
+2015-06-17 13:58:53.1607|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2015-06-17 13:58:53.1607|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2015-06-17 13:58:58.6590|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2015-06-17 13:58:59.8141|WARN|thread:19|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:null' was not present in the cache.
+2015-06-17 13:59:01.4692|INFO|thread: 1|RepositoryHost|Log in from cache for login 'beyondsilkyway' to host 'https://api.github.com/' SUCCEEDED
+2015-06-17 13:59:01.4982|INFO|thread:26|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'IM SUNG GYUN' and user.email = 'beyondsilkyway@gmail.com'
+2015-06-17 13:59:01.5272|INFO|thread:15|SSHProcessManager|Starting ssh-agent.exe
+2015-06-17 13:59:01.5332|INFO|thread:15|PortablePackageManager|Already extracted lfs-amd64.7z, returning 100%
+2015-06-17 13:59:02.5452|INFO|thread:28|GitEnvironment|Process set up with this SSH Agent info: 5424:/tmp/ssh-Uq7oK7bZ3mNH/agent.7440
+2015-06-17 13:59:02.5452|INFO|thread:28|GitEnvironment|PATH is C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Administrator\AppData\Local\Apps\2.0\G8D35CX2.0N9\GC05RHRD.9TZ\gith..tion_317444273a93ac29_0002.000e_3501b301c8f62e54;C:\Users\Administrator\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-06-17 13:59:02.5452|INFO|thread:28|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\ssh-add.exe', Args: '"C:\Users\Administrator\.ssh\github_rsa"', Working Directory: C:\Users\Administrator\AppData\Local\Temp\
+2015-06-17 13:59:02.8212|INFO|thread:15|SSHKeyHelper|Found existing SSH key pair
+2015-06-17 13:59:48.2488|INFO|thread: 7|CrossProcessMessageBus|Another instance started and signaled us.
+2015-06-17 13:59:48.2838|INFO|thread: 7|CommandLineHandler|Another app instance has asked us to clone this repo: 'https://github.com/beyondsilkyway/test'
+2015-06-17 14:00:07.4959|INFO|thread: 1|RepositoryModel|Cloning repo https://github.com/beyondsilkyway/test.git
+2015-06-17 14:00:07.5059|INFO|thread: 1|GitLfsSmudgeTail|Setting Git LFS smudge progress environment variable
+2015-06-17 14:00:07.5199|INFO|thread: 1|RepositoryModel|Cloning 'https://github.com/beyondsilkyway/test.git' to 'test' in directory 'C:\Users\Administrator\Documents\GitHub
+2015-06-17 14:00:07.5199|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 5424:/tmp/ssh-Uq7oK7bZ3mNH/agent.7440
+2015-06-17 14:00:07.5199|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Administrator\AppData\Local\Apps\2.0\G8D35CX2.0N9\GC05RHRD.9TZ\gith..tion_317444273a93ac29_0002.000e_3501b301c8f62e54;C:\Users\Administrator\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-06-17 14:00:07.5199|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'clone --progress --recursive  --  "https://github.com/beyondsilkyway/test.git" "test" ', Working Directory: C:\Users\Administrator\Documents\GitHub
+2015-06-17 14:00:08.1490|INFO|thread:32|GitLfsSmudgeTail|Cleaning up Git LFS smudge progress environment variable
+2015-06-17 14:00:08.9410|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or email support if you are still having problems.
+GitHub.IO.ProcessException: Cloning into 'test'...
+fatal: unable to access 'https://github.com/beyondsilkyway/test.git/': Protocol https not supported or disabled in libcurl
+2015-06-17 14:00:09.7201|INFO|thread:26|BackgroundFetcher|Calculated a refresh period for beyondsilkyway/test of 3600 seconds
+2015-06-17 14:00:09.7201|INFO|thread:26|BackgroundFetcher|Added a delay for beyondsilkyway/test of 5434 milliseconds
+2015-06-17 14:00:27.4021|INFO|thread: 7|CrossProcessMessageBus|Another instance started and signaled us.
+2015-06-17 14:00:27.4021|INFO|thread: 7|CommandLineHandler|Another app instance has asked us to clone this repo: 'https://github.com/beyondsilkyway/test'
+2015-06-17 14:00:42.1049|INFO|thread: 1|RepositoryModel|Cloning repo https://github.com/beyondsilkyway/test.git
+2015-06-17 14:00:42.1049|INFO|thread: 1|GitLfsSmudgeTail|Setting Git LFS smudge progress environment variable
+2015-06-17 14:00:42.1049|INFO|thread: 1|RepositoryModel|Cloning 'https://github.com/beyondsilkyway/test.git' to 'test' in directory 'C:\githubroot
+2015-06-17 14:00:42.1049|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 5424:/tmp/ssh-Uq7oK7bZ3mNH/agent.7440
+2015-06-17 14:00:42.1049|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\Administrator\AppData\Local\Apps\2.0\G8D35CX2.0N9\GC05RHRD.9TZ\gith..tion_317444273a93ac29_0002.000e_3501b301c8f62e54;C:\Users\Administrator\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Windows\System32
+2015-06-17 14:00:42.1049|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Administrator\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'clone --progress --recursive  --  "https://github.com/beyondsilkyway/test.git" "test" ', Working Directory: C:\githubroot
+2015-06-17 14:00:42.1719|INFO|thread:33|GitLfsSmudgeTail|Cleaning up Git LFS smudge progress environment variable
+2015-06-17 14:00:42.3139|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or email support if you are still having problems.
+GitHub.IO.ProcessException: Cloning into 'test'...
+fatal: unable to access 'https://github.com/beyondsilkyway/test.git/': Protocol https not supported or disabled in libcurl
+2015-06-17 14:00:42.9280|INFO|thread:26|BackgroundFetcher|Calculated a refresh period for beyondsilkyway/test of 3600 seconds
